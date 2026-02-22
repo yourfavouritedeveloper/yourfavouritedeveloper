@@ -8,9 +8,7 @@
 
 ## 📊 Coding Stats
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/gofuuuse?theme=dark&font=Roboto&extension=activity" alt="LeetCode Stats" />
-</div>
+![LeetCode Stats](https://leetcard.jacoblin.cool/gofuuuse?theme=dark&font=Roboto&extension=activity)  
 
 
 ---
