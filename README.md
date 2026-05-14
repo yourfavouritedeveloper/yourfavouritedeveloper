@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Nihad 👋
+# Hi, I'm Nihad 
 
 **Backend Developer · Computer Engineering Student**
 
-📍 Baku, Azerbaijan &nbsp;|&nbsp; 🎓 Baku Higher Oil School 
+Baku, Azerbaijan &nbsp;|&nbsp;  Baku Higher Oil School 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihad-mammadov-025548325/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourfavouritedeveloper)
@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a backend developer specializing in **Java & Spring Boot**, currently studying Computer Engineering at **Baku Higher Oil School**. 
 
@@ -24,7 +24,7 @@ I enjoy building clean, scalable systems — from event-driven banking backends 
 
 
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Backend | Frontend | Database | DevOps & Tools |
 |---|---|---|---|
@@ -40,9 +40,9 @@ I enjoy building clean, scalable systems — from event-driven banking backends 
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🏦 [Transactional Bank System](https://github.com/yourfavouritedeveloper/TransactionalBankSystem)
+### [Transactional Bank System](https://github.com/yourfavouritedeveloper/TransactionalBankSystem)
 
 A scalable banking backend handling the full transaction lifecycle — from initiation and authorization to settlement and posting.
 - **Stack:** Java · Spring Boot · PostgreSQL · Kafka · Redis
@@ -51,7 +51,7 @@ A scalable banking backend handling the full transaction lifecycle — from init
 
 ---
 
-### ☁️ [CloudNest](https://github.com/yourfavouritedeveloper/CloudNest) 
+### [CloudNest](https://github.com/yourfavouritedeveloper/CloudNest) 
 
 Cloud-native file storage backend built with production-grade practices.
 - JWT auth with RBAC and secure AWS S3 file uploads via pre-signed URLs
@@ -59,7 +59,7 @@ Cloud-native file storage backend built with production-grade practices.
 
 ---
 
-### 🛒 [TechStore](https://github.com/yourfavouritedeveloper/TechStore) 
+### [TechStore](https://github.com/yourfavouritedeveloper/TechStore) 
 
 Full-stack e-commerce platform with a complete purchase flow.
 - React + Spring Boot + PostgreSQL + Redis + Stripe payments
@@ -67,7 +67,7 @@ Full-stack e-commerce platform with a complete purchase flow.
 
 ---
 
-## 📊 Coding Stats
+## Coding Stats
 
 <div align="center">
 
